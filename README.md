@@ -252,19 +252,9 @@ chmod +x	Make script executable
 crontab	Schedule automated execution
 Screenshots
 
-Include screenshots for:
+#Output
+Screenshots of output are uploaded in outputs folder
 
-Creating developers group
-Creating users
-Adding users to group
-Creating shared directory
-Setting SGID permissions
-Testing SGID
-Creating monitoring script
-Running monitoring script
-Viewing monitoring log
-Configuring Cron
-Final validation
 #Learning Outcome
 
 After completing this project, I learned how to manage Linux users and groups, configure shared directories using SGID, automate monitoring with Bash scripts, log system events, and schedule recurring tasks using Cron. This project enhanced my understanding of Linux permissions, collaboration mechanisms, and automation, which are essential skills for Linux Administration, DevOps, and Cloud Engineering.
